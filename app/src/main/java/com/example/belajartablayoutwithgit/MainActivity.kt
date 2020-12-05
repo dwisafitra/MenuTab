@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
         viewPagerAdapter.tambahFragment(DraftFragment(), "Draft")
         viewPagerAdapter.tambahFragment(InboxFragment(), "Inbox")
+        viewPagerAdapter.tambahFragment(SentFragment(), "Sent")
         viewPager.adapter = viewPagerAdapter
         tabLayout.setupWithViewPager(viewPager)
     }

@@ -1,11 +1,8 @@
 <resources>
     <string name="app_name">BelajarTabLayout</string>
     <!-- TODO: Remove or change this placeholder text -->
-<<<<<<< HEAD
     <string name='frag1'>Halaman Inbox</string>
-=======
     <string name="frag3">Halaman Sent</string>
->>>>>>> remotes/origin/dwi
     <string name="nama_user">Dwi</string>
     <string name='frag2'>Halaman Draft</string>
     <!-- TODO: Remove or change this placeholder text -->
